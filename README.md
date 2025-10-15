@@ -1,6 +1,6 @@
 # 🎮 Internship Projects – Python Mini Games
 
-Welcome to **SK Sahil’s Python Game Collection!**  
+Welcome to **Anik Hawladar’s Python Game Collection!**  
 This repository contains three fun and educational games built using **Python** and **Pygame**, designed for **beginner programmers** and **internship learners** to explore logic, loops, and creativity in coding.
 
 ---
