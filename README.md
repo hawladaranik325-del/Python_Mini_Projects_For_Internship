@@ -53,7 +53,7 @@ Your score increases for every brick you break!
 A simple arcade-style game where the player controls a spaceship and shoots down enemies.  
 Your mission: Survive as long as possible while destroying enemy ships and scoring points!
 
-<img width="683" height="858" alt="image" src="https://github.com/user-attachments/assets/691365de-ae6c-4c93-a011-6fd6885610df" />
+<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/691365de-ae6c-4c93-a011-6fd6885610df" />
 
 
 ---
