@@ -10,7 +10,7 @@ This repository contains three fun and educational games built using **Python** 
 **Description:**  
 A simple, classic snake game where the player controls a snake to eat food and grow longer. The game ends if the snake hits the wall or itself.
 
-<img width="517" height="400" alt="image" src="https://github.com/user-attachments/assets/fa17faf5-d234-47a7-8654-61a5df482f6d" />
+<img width="415" height="299" alt="image" src="https://github.com/user-attachments/assets/49541c92-44ec-4b20-846b-df8444914b2f" />
 
 
 **Key Concepts:**  
@@ -29,7 +29,8 @@ Eat the red square to grow and score points!
 Control a paddle to bounce a ball and break all the bricks on the screen.  
 Your score increases for every brick you break!
 
-<img width="739" height="786" alt="image" src="https://github.com/user-attachments/assets/642bba51-5b74-4086-ac1e-d90c2a291694" />
+<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/354af8c9-f237-4011-baff-db3407ab5446" />
+
 
 ---
 
@@ -52,7 +53,7 @@ Your score increases for every brick you break!
 A simple arcade-style game where the player controls a spaceship and shoots down enemies.  
 Your mission: Survive as long as possible while destroying enemy ships and scoring points!
 
-<img width="687" height="903" alt="image" src="https://github.com/user-attachments/assets/5d316b65-ed1b-4189-9025-d6a7296dae07" />
+<img width="683" height="858" alt="image" src="https://github.com/user-attachments/assets/691365de-ae6c-4c93-a011-6fd6885610df" />
 
 
 ---
