@@ -76,4 +76,4 @@ Your mission: Survive as long as possible while destroying enemy ships and scori
 ```bash
 python snake_game.py
 python brick_breaker.py
-python space_shooter.py
+python space_game.py
