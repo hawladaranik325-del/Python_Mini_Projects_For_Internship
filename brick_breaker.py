@@ -8,7 +8,7 @@ pygame.init()
 # Window setup
 WIDTH, HEIGHT = 600, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("🧱 Brick Breaker Game by SK Sahil")
+pygame.display.set_caption("🧱 Brick Breaker Game by Anik Hawladar")
 
 # Colors
 BLACK = (0, 0, 0)
