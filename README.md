@@ -29,7 +29,8 @@ Eat the red square to grow and score points!
 Control a paddle to bounce a ball and break all the bricks on the screen.  
 Your score increases for every brick you break!
 
-<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/354af8c9-f237-4011-baff-db3407ab5446" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e858c70a-b613-485f-b886-2aeff27ec108" />
+
 
 
 ---
