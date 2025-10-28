@@ -10,7 +10,8 @@ This repository contains three fun and educational games built using **Python** 
 **Description:**  
 A simple, classic snake game where the player controls a snake to eat food and grow longer. The game ends if the snake hits the wall or itself.
 
-<img width="415" height="299" alt="image" src="https://github.com/user-attachments/assets/49541c92-44ec-4b20-846b-df8444914b2f" />
+<img width="400" height="385" alt="image" src="https://github.com/user-attachments/assets/5b7eae5c-c4ce-4afe-93ef-b4da31eb253f" />
+
 
 
 **Key Concepts:**  
